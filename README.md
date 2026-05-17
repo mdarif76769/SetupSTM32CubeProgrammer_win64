@@ -1,0 +1,1 @@
+# SetupSTM32CubeProgrammer_win64
